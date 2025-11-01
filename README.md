@@ -7,7 +7,7 @@ A powerful Model Context Protocol (MCP) client built with LangChain, LangGraph, 
 - **MCP Server Integration**: Streamable HTTP MCP server with customizable tools
 - **Groq LLM Integration**: Fast inference using Groq's API with LangChain
 - **Real-time Execution Tracing**: Comprehensive verbose logging showing:
-  - Agent reasoning and decision-making process
+  - Agent reasoning and decision-making process 
   - Tool calls with inputs and outputs
   - LLM thinking steps
   - Chain execution flow
@@ -407,5 +407,6 @@ For issues or questions:
 3. Verify all environment variables are set correctly
 
 ---
+
 
 
