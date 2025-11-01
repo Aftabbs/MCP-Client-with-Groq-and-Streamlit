@@ -27,7 +27,7 @@ A powerful Model Context Protocol (MCP) client built with LangChain, LangGraph, 
 
 1. **Clone the repository** (or navigate to the project directory):
    ```bash
-   cd Azure_Ops_Copilot_MCP
+   cd MCPclientwithgroq
    ```
 
 2. **Create a virtual environment** (recommended):
@@ -407,6 +407,7 @@ For issues or questions:
 3. Verify all environment variables are set correctly
 
 ---
+
 
 
 
